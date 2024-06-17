@@ -85,3 +85,7 @@ ipython_config.py
 # Windows
 Thumbs.db
 ehthumbs.db
+
+
+# Ignore references directory
+references/
