@@ -1,10 +1,10 @@
 # config.py
 
 DATABASE_CONFIG = {
-    "host": "localhost",
-    "dbname": "test",
-    "user": "postgres",
-    "password": "1234"
+    'database': 'your_database_name',
+    'user': 'your_username',
+    'password': 'your_password',
+    'host': 'localhost'
 }
 
-IMAGE_PATH = "references/sako.png"
+IMAGE_PATH = 'path_to_your_image_directory'  # e.g., 'references/'
