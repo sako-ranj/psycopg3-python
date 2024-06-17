@@ -12,5 +12,5 @@ This project provides a simple interface to manage image uploads and displays us
 1. Clone the repository:
 
 ```sh
-git clone <repository-url>
+git clone <https://github.com/sako-ranj/psycopg3-python.git>
 cd project
