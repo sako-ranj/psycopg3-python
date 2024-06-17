@@ -88,4 +88,4 @@ ehthumbs.db
 
 
 # Ignore references directory
-references/
+/references
